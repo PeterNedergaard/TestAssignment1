@@ -1,4 +1,4 @@
-# TestAssignment1
+# Assignment 1
 
 ## 1 Reflections
 
@@ -36,3 +36,20 @@ alien has teeth exactly like yours, and is as smart as you, but it needs a clear
 13. Rinse the toothbrush under running water from the faucet
 14. If not already done, put the cap back on the toothpaste
 15. Dry off the toothbrush, and put it back where you found it
+
+
+## 3 Give your thoughts on TDD
+
+**What was positive and good about using TDD?**
+- An isolated environment for testing and running methods individually.
+- Because of writing the smallest implementation to make the test pass, you quickly get a working solution, which you can then refactor or build on top of. This way, you will easier find the problem if tests begin to fail, as its most likely caused by the code you have recently written.
+
+
+**What was annoying or difficult?**
+- Remembering to implement the test first, and not just begin to code straight away.
+
+**What surprised you?**
+- Testing is easier and more intuitive than I recall from previous semesters.
+
+**Did TDD help you write some tests you wouldn’t otherwise have thought of?**
+- I'm unsure. Maybe it did the opposite, as I had a better understanding of the potential failures only after actually working with the inner parts of the methods.
